@@ -32,13 +32,13 @@ For Track 1, participants are required to submit a brief idea and a PPT presenta
 For Track 2, participants are required to submit a brief idea and a PPT presentation that explains their approach to implementing suggested features in the pre-built project and need to mention about the additional features they are going to implement.
 
 
-Submissions for Round 1 will be accepted via a Google Form. The submission form will be open from [insert start date] to [insert end date].
+Submissions for Round 1 will be accepted via a Google Form. The submission form will be open from 07/05/2023 to 11/05/2023.
 
 ### Round 2: Implementation
 
 Selected participants from Round 1 will move on to Round 2, which is the implementation round. Teams are required to implement their ideas and submit a pull request on GitHub. The pull request should contain the code and any relevant documentation.
 
-Submissions for Round 2 will be accepted from [insert start date] to [insert end date].
+Round 2 will be conducted on 13/05/2023.
 
 ## General Rules
 
