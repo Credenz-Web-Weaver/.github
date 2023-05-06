@@ -1,6 +1,6 @@
 # Web Weaver
 
-![Web Weaver Logo](https://dummyimage.com/200x200/000/fff.png&text=Web+Weaver+Logo) ![Pubmatic Logo](https://dummyimage.com/200x200/000/fff.png&text=Pubmatic+Logo)
+[![Pubmatic Logo](https://nth22.s3.ap-south-1.amazonaws.com/webweaver/pubmatic.svg)](https://www.pubmatic.com/)[![Web Weaver Logo](https://nth22.s3.ap-south-1.amazonaws.com/webweaver/webweaver.svg)](https://github.com/Credenz-Web-Weaver)[![Credenz Logo](https://nth22.s3.ap-south-1.amazonaws.com/webweaver/credenz.svg)](https://credenz.in/)
 
 Welcome to Pubmatic presents Web Weaver! This is a develoment royale that consists of two tracks, each with different challenges for participants to tackle.
 
