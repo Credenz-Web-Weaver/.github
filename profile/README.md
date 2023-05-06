@@ -1,5 +1,7 @@
 # Web Weaver
 
+![Web Weaver Logo](https://dummyimage.com/200x200/000/fff.png&text=Web+Weaver+Logo) ![Pubmatic Logo](https://dummyimage.com/200x200/000/fff.png&text=Pubmatic+Logo)
+
 Welcome to Pubmatic presents Web Weaver! This is a develoment royale that consists of two tracks, each with different challenges for participants to tackle.
 
 ## Tracks
