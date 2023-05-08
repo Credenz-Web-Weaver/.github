@@ -34,7 +34,8 @@ For Track 1, participants are required to submit a brief idea and a PPT presenta
 For Track 2, participants are required to submit a brief idea and a PPT presentation that explains their approach to implementing suggested features in the pre-built project and need to mention about the additional features they are going to implement.
 
 
-Submissions for Round 1 will be accepted via a Google Form. The submission form will be open from 07/05/2023 to 11/05/2023.
+Submissions for Round 1 will be accepted via a [Google Form](https://forms.gle/khmDuuHNbb2ioJ8g9). The submission form will be open from 07/05/2023 to 11/05/2023.
+
 
 ### Round 2: Implementation
 
